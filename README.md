@@ -9,7 +9,7 @@
 
 
 
-Here are some ideas to get you started:
+::
 
 - 🔭 I’m currently working on plugging TC curve using Clustering algorithms and creating soundscape plots to diagnosis hydrophone's instrumental error.
 - 🌱 I’m currently learning how to improve clustering algorithms and how open API's work.
