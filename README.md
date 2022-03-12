@@ -12,6 +12,6 @@
 ::
 
 - 🔭 I’m currently working on plugging TC curve using Clustering algorithms and creating soundscape plots to diagnosis hydrophone's instrumental error.
-- 🌱 I’m currently learning how to improve clustering algorithms and how open API's work.
+- 🌱 Also very keen to learn how to improve clustering algorithms and how open API's work.
 - 👯 I’m looking to collaborate on any ML based (unsupervised) projects.
 -->
