@@ -11,7 +11,7 @@
 
 ::
 
-- 🔭 I’m currently working on plugging TC curve using Clustering algorithms and creating soundscape plots to diagnosis hydrophone's instrumental error.
-- 🌱 Also very keen to learn how to improve clustering algorithms and how open API's work.
-- 👯 I’m looking to collaborate on any ML based (unsupervised) projects.
+- 🔭 Current Projects: Actively engaged in developing advanced clustering algorithms to plot TC curves and create soundscape plots. These projects aim to enhance the diagnosis of hydrophone instrumental errors through innovative data analysis techniques.
+- 🌱 Learning Goals: Currently delving deeper into the intricacies of machine learning, with a particular focus on optimizing unsupervised learning algorithms. Also exploring the integration and utilization of open APIs in data analysis projects.
+- 👯 Collaboration Interests: Eager to collaborate on machine learning projects, particularly those involving unsupervised learning. Keen on contributing to projects where data analytics and ML intersect to solve complex problems or create innovative solutions.
 -->
