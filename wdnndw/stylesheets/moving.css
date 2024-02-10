@@ -1,0 +1,180 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+body {
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:black;
+    }
+    section{
+    height:100%;
+    width:100%;
+      position:absolute ;  background:radial-gradient(#333,#000);
+    }
+    .leaf{
+        position:absolute ;
+        width:100%;
+        height:100%;
+        top:0;
+        left:0;
+    }
+    .leaf div{
+    position:absolute ;
+    display:block ;
+    }
+    .leaf div:nth-child(1){
+        left:20%; 
+        animation:fall 15s linear infinite ;
+        animation-delay:-2s;
+    
+    }
+    .leaf div:nth-child(2){
+        left:70%; 
+        animation:fall 15s linear infinite ;
+        animation-delay:-4s;
+    }
+    .leaf div:nth-child(3){
+        left:10%; 
+        animation:fall 20s linear infinite ;
+        animation-delay:-7s;
+        
+    }
+    .leaf div:nth-child(4){
+        left:50%; 
+       animation:fall 18s linear infinite ; 
+       animation-delay:-5s;
+    }
+    .leaf div:nth-child(5){
+        left:85%; 
+        animation:fall 14s linear infinite ;
+        animation-delay:-5s;
+    }
+    .leaf div:nth-child(6){
+        left:15%; 
+        animation:fall 16s linear infinite ;
+        animation-delay:-10s;
+    }
+    .leaf div:nth-child(7){
+        left:90%; 
+        animation:fall 15s linear infinite ;
+        animation-delay:-4s;
+    }
+    
+    @keyframes fall{
+        0%{
+            opacity:1;
+            top:-10%;
+            transform:translateX (20px) rotate(0deg);
+        }
+        20%{
+            opacity:0.8;
+            transform:translateX (-20px) rotate(45deg);
+        }
+        40%{
+    
+            transform:translateX (-20px) rotate(90deg);
+        }
+        60%{
+            
+           transform:translateX (-20px) rotate(135deg); 
+        }
+        80%{
+        
+            transform:translateX (-20px) rotate(180deg);
+        }
+        100%{
+            
+            top:110%;
+            transform:translateX (-20px) rotate(225deg);
+        }
+        }
+    .leaf1{
+        transform: rotateX(180deg);
+    }
+    a {
+        color: #d7f0ea;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #e2f0ed;
+        text-decoration: none;
+      }
+      p a {
+        border-bottom: 1px solid #dfe2e5;
+      }
+      .primary-header a,
+      .primary-footer a {
+        color: #fff;
+      }
+      .primary-header a:hover,
+      .primary-footer a:hover {
+        color: #648880;
+      }
+      .btn {
+        font-size:0.875em;
+        display:block;
+        left:-60px;
+        margin-top:35px;
+        width:100%;
+      }
+    .primary-nav {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: .5px;
+        text-transform: uppercase;
+      }
+      .nav a{
+        display: inline-block;
+        line-height:45px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 0%;
+      }
+      .nav {
+      display: block;
+        
+      }
+      .nav:hover{
+        color: #ffffff;
+        text-decoration: none;
+      }
+      .nav li {
+        display: inline-block;
+        margin: 0 10px;
+        vertical-align: top;
+      }
+      .nav li:last-child {
+        margin-right: 0;
+      }
+      
+    
+    h4{
+        position:absolute ;
+        top:40%;
+        width:100%;
+          font-family: 'Courgette';
+        font-size:1.3em;
+        text-align:center;
+        transform:translate ;
+        color:#fff;
+        transform:translateY (-50%);
+    }

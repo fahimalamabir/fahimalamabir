@@ -1,0 +1,14 @@
+/* use this to put borders around things... */
+.crop-img{
+  max-width:100%;
+  margin-bottom: 10px;
+  display:block; 
+height: auto;
+}
+
+.large-img{
+  max-width:100%;
+  margin-top: 10px;
+  display:block; 
+height: auto;
+}

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Fahim Alam</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+
+
+    <script src=" http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="assets/js/typed.js"></script>
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1>
+  <style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    body {
+      width: 90%;
+      margin: 0 auto;
+  
+  }
+  
+  
+  header {
+      margin-top: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #b5b5b5;
+  }
+  
+  .logo-row {
+      width: 250px;
+      margin: 0 auto;
+  }
+  
+  .logo {
+      width: 100%;
+      height: 150px;
+      text-align: center;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: transparent;
+  
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+</style>
+</head>
+
+  <body>
+
+
+    <header class="primary-header container group">
+      <div class = "responsive">
+      <h1 id="title"  class="logo" onclick="console.log('Thanks to Allah for giving me the opporturnity to do something good.');">
+        <a href="https://www.uvic.ca/science/math-statistics/index.php"><img src="uvic_math_stats.gif"class="responsive"></a>
+  
+      </h1>
+    </div>
+    </header>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <div class ="topnav-centered">
+    <nav class="nav primary-nav">
+      <ul>
+        <li><a href="index.html">HOME</a> &nbsp;</li>
+          <li><a href="resume.html">RESUME</a> &nbsp;</li>
+          <li><a href= "learn.html">Learning Curve</a></li>
+          <li><a href= "photos.html">Photo Gallery</a></li>
+
+
+      </ul>
+    </nav>
+  </div>
+    <section class="hero">
+      <div class = "cards">
+        <h2 id="title" onclick="alert('Welcome to My Page'); ">MD Fahim Sahariar Alam</h2>
+      </div>
+
+    </div>
+    </section>
+
+    <!-- Teasers -->
+
+    <section class="cards">
+      <div class="speaker-info">
+        <section class="speaker" id="Fahim Alam">
+
+          <div class="cards">  
+            <nav class ="primary-footer">
+              <h2>Hi, I'm Fahim.</h2>
+							<h5 style="color:#fff">A <span id="typed" style="font-weight: 300; color:#f2fffd"></span></h5>
+							<!-- <h5 style="color:#00796b">A <span class="typing" style="font-weight: 300; color:#fff"></span></h5> -->
+							<h5 style="color:#fff">Proficient writing codes using Python and MATLAB with experience in Machine Learning and Scientific Computing.</h2>
+            </nav>
+            </div>
+          <aside>
+            <div class="row">  
+
+              <img src="me.jpg" alt="Fahim Alam"class="responsive"  onclick="alert('I need to learn how to smile properly')">
+                <h3>LinkedIn: <a href="https://www.linkedin.com/in/fahim-alam-b71a5b1a1/" target="_blank">fahim-alam-b71a5b1a1/</a></h3>
+          
+
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <script>
+        window.watsonAssistantChatOptions = {
+            integrationID: "008065a9-3f90-4634-b3d9-702ed1148d47", // The ID of this integration.
+            region: "us-south", // The region your integration is hosted in.
+            serviceInstanceID: "3fdbc226-0941-4c49-bc37-d368bf986146", // The ID of your service instance.
+            onLoad: function(instance) { instance.render(); }
+          };
+        setTimeout(function(){
+          const t=document.createElement('script');
+          t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+          document.head.appendChild(t);
+        });
+      </script>
+
+    <!-- Footer -->
+
+    <footer class="primary-footer container group">
+
+      <small>&copy; Fahim Alam</small>
+    
+
+    </footer>
+    <script>
+      var typed = new Typed('#typed',{
+           strings:["Fast Learner","Math Lover","Data Science Enthusiastic","Huge fan of Marvel Cinematic Universe","Quick Thinker"],
+           backSpeed: 40,
+           typeSpeed: 40,
+           loop: true,
+           shuffle: true
+         });
+      </script>
+
+  </body>
+</html>
