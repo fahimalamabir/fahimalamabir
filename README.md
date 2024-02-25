@@ -17,7 +17,7 @@ As a freelance data scientist, I excel in 🌐 creating interactive dashboards a
 - Data Visualization and Interactive Dashboards: Specializing in the development of dynamic, interactive dashboards 📊 that make complex datasets accessible and engaging. My aim is to enable stakeholders to understand intricate data at a glance and make informed decisions.
 - Continuous Learning and Application: Dedicated to deepening my mastery in machine learning, with a spotlight on both supervised 📚 and unsupervised learning algorithms. Expanding my toolkit by exploring the integration of open APIs 🌐 to supercharge data analytics projects.
 
-###🤝 Collaboration and Innovation:
+### 🤝 Collaboration and Innovation:
 - Collaborative Projects: Eager to join forces on projects that harness machine learning and data analytics to unravel complex problems. I’m passionate about contributing to ventures where innovative solutions can leave a lasting impact 🚀.
 - Innovation in Data Science: Aiming to be at the cutting edge of developing and implementing avant-garde data analysis techniques. By engaging in projects that challenge conventional thinking, I seek to contribute to the evolution of the data science landscape 🌱.
 
