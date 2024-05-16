@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Fahim Alam</h1>
 ### Welcome to my Github :blush:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffahimalamabir&count_bg=%2379C83D&title_bg=%23555555&icon=toggl.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -7,10 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abir29793@gmail.com)](mailto:abir29793@gmail.com)
 
 
-<h1 align="center">Hi 👋, I'm Fahim Alam</h1>
-<h3 align="center">A <a href="https://comp.anu.edu.au/people/jonathan-ting/">PhD candidate</a> at the <a href="https://www.anu.edu.au/">Australian National University</a> </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jon-ting" alt="jon-ting" /> </p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420#gh-dark-mode-only"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420" /></a>
