@@ -26,8 +26,8 @@
   <a href="https://github.com/fahimalamabir/datatuneanalytics">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=datatuneanalytics&show_owner=false&theme=vision-friendly-dark" />
   </a>
-  <a href="https://github.com/fahimalamabir/basic_projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=basic_projects&show_owner=false&theme=vision-friendly-dark" />
+  <a href="https://github.com/fahimalamabir/projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=projects&show_owner=false&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/fahimalamabir/powerBI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=powerBI&show_owner=false&theme=vision-friendly-dark" />
