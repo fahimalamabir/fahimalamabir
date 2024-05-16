@@ -18,18 +18,7 @@
 <p align="center">
   <a href="https://github.com/fahimalamabir/datatuneanalytics#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=datatuneanalytics&show_owner=false&theme=vision-friendly-dark" /></a>
   <a href="https://https://github.com/fahimalamabir/basic_projects#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=basic_projects&show_owner=false&theme=transparent" /></a>
-  <a href="https://github.com/jon-ting/futurelearn-certifications#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=vision-friendly-dark" /></a>
-  <a href="https://github.com/jon-ting/futurelearn-certifications#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=transparent" /></a>
-  <a href="https://github.com/jon-ting/sphractal#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=vision-friendly-dark" /></a>
-  <a href="https://github.com/jon-ting/sphractal#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=transparent" /></a>
-  <a href="https://github.com/jon-ting/fastbc#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=vision-friendly-dark" /></a>
-  <a href="https://github.com/jon-ting/fastbc#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=transparent" /></a>
-  <a href="https://github.com/jon-ting/molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=vision-friendly-dark" /></a>
-  <a href="https://github.com/jon-ting/molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=transparent" /></a>
-  <a href="https://github.com/jon-ting/covdrugsim#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=vision-friendly-dark" /></a>
-  <a href="https://github.com/jon-ting/covdrugsim#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=transparent" /></a>
-  <a href="https://github.com/Jon-Ting/tnp-gen#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=vision-friendly-dark" /></a>
-  <a href="https://github.com/Jon-Ting/tnp-gen#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=transparent" /></a>
+
 </p>
 
 <h5 align="center">This page is decorated based on functionalities from <a href="https://github.com/fahimalamabir/github-readme-stats">GitHub Readme Stats</a> .</h5>
