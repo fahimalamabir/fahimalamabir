@@ -80,16 +80,13 @@
 <h2 align="center">Get in Touch!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahim-alam-b71a5b1a1/">
+  <a href="https://www.linkedin.com/in/fahim-sahariar-alam/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:abir29793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/fahimalamabir">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://calendly.com/fahimalamabir">
+  <a href="https://calendly.com/abir29793">
     <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-00C853?style=flat-square&logo=Calendly&logoColor=white" />
   </a>
 </p>
