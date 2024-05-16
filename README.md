@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=fahimalamabir" alt="Profile Views" />
 </p>
 
-
 <h2 align="center">About Me</h2>
 
 <p>As a freelance data scientist, I excel in creating interactive dashboards and applying machine learning algorithms to solve real-world problems. My work seamlessly blends innovative data visualization with cutting-edge analytical techniques to unveil meaningful insights from complex datasets.</p>
@@ -21,6 +20,26 @@
 - **Innovation in Data Science**: Aiming to be at the cutting edge of developing and implementing avant-garde data analysis techniques. Engaging in projects that challenge conventional thinking and contribute to the evolution of the data science landscape.
 
 <p>I am dedicated to leveraging my data science skills to contribute to impactful projects that enhance our understanding and application of machine learning. Through collaboration and continuous learning, I aspire to push the boundaries of data analytics and visualization.</p>
+
+<h3 align="center">🌟 Achievements and Highlights</h3>
+
+<ul>
+  <li>Recipient of the XYZ Award for Outstanding Contribution in Data Science</li>
+  <li>Published a research paper on machine learning in a reputed journal</li>
+  <li>Contributed to open-source projects with 500+ stars</li>
+  <li>Successfully completed a data science project that saved clients over $100k annually</li>
+</ul>
+
+<h3 align="center">🛠️ Tools and Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
+</p>
 
 <p align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
   <a href="https://github.com/fahimalamabir/datatuneanalytics" style="margin: 10px;">
@@ -49,7 +68,17 @@
   </a>
 </p>
 
+<h3 align="center">📚 Blog Posts and Articles</h3>
 
+<ul>
+  <li><a href="https://medium.com/@fahimalamabir">How Machine Learning is Transforming Data Analysis</a></li>
+  <li><a href="https://medium.com/@fahimalamabir">Creating Interactive Dashboards with Power BI</a></li>
+  <li><a href="https://medium.com/@fahimalamabir">Deploying Machine Learning Models in Production</a></li>
+</ul>
+
+<h3 align="center">💡 Personal Quote</h3>
+
+<p align="center"><em>"Data is the new oil, and machine learning is the refinery."</em></p>
 
 <h2 align="center">Get in Touch!</h2>
 
@@ -59,6 +88,12 @@
   </a>
   <a href="mailto:abir29793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/fahimalamabir">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://calendly.com/fahimalamabir">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-00C853?style=flat-square&logo=Calendly&logoColor=white" />
   </a>
 </p>
 
