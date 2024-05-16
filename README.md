@@ -70,9 +70,7 @@
 <h3 align="center">📚 Blog Posts and Articles</h3>
 
 <ul>
-  <li><a href="https://medium.com/@fahimalamabir">How Machine Learning is Transforming Data Analysis</a></li>
-  <li><a href="https://medium.com/@fahimalamabir">Creating Interactive Dashboards with Power BI</a></li>
-  <li><a href="https://medium.com/@fahimalamabir">Deploying Machine Learning Models in Production</a></li>
+  <li><a href="https://medium.com/@abir29793/importing-datasets-from-kaggle-to-google-colab-084a7ceb7c18">Using Kaggle Datasets in Google Colab: A Step-by-Step Guide</a></li>
 </ul>
 
 <h3 align="center">💡 Personal Quote</h3>
