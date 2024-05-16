@@ -34,15 +34,6 @@
   <a href="https://github.com/Jon-Ting/tnp-gen#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=transparent" /></a>
 </p>
 
-<p align="center">
-  <a href="https://codepen.io/JonTing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jon ting" height="30" width="30" /></a>
-  <a href="https://twitter.com/JonTingYC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jon ting" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/jon-ting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jon-ting" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/jon ting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jon ting" height="30" width="30" /></a>
-  <a href="https://www.kaggle.com/jonting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jon ting" height="30" width="30" /></a>
-  <a href="https://fb.com/jon ting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jon ting" height="30" width="30" /></a>
-</p>
-
 <h5 align="center">This page is decorated based on functionalities from <a href="https://github.com/fahimalamabir/github-readme-stats">GitHub Readme Stats</a> .</h5>
 
 
