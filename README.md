@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahim-alam-b71a5b1a1/)](https://www.linkedin.com/in/fahim-alam-b71a5b1a1/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abir29793@gmail.com)](mailto:abir29793@gmail.com)
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimalamabir" alt="Fahim-Alam" /> </p>
 
 
 <p align="center">
