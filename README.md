@@ -22,21 +22,21 @@
 
 <p>I am dedicated to leveraging my data science skills to contribute to impactful projects that enhance our understanding and application of machine learning. Through collaboration and continuous learning, I aspire to push the boundaries of data analytics and visualization.</p>
 
-<p align="center">
-  <a href="https://github.com/fahimalamabir/datatuneanalytics">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=datatuneanalytics&show_owner=false&theme=vision-friendly-dark" />
+<p align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
+  <a href="https://github.com/fahimalamabir/datatuneanalytics" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=datatuneanalytics&show_owner=false&theme=tokyonight" style="border: 2px solid #1e90ff; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/fahimalamabir/projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=projects&show_owner=false&theme=vision-friendly-dark" />
+  <a href="https://github.com/fahimalamabir/projects" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=projects&show_owner=false&theme=tokyonight" style="border: 2px solid #1e90ff; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/fahimalamabir/powerBI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=powerBI&show_owner=false&theme=vision-friendly-dark" />
+  <a href="https://github.com/fahimalamabir/powerBI" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=powerBI&show_owner=false&theme=tokyonight" style="border: 2px solid #1e90ff; border-radius: 10px;" />
   </a>
-    <a href="https://github.com/fahimalamabir/sql">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=sql&show_owner=false&theme=vision-friendly-dark" />
+  <a href="https://github.com/fahimalamabir/sql" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=sql&show_owner=false&theme=tokyonight" style="border: 2px solid #1e90ff; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/fahimalamabir/ONC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=ONC&show_owner=false&theme=vision-friendly-dark" />
+  <a href="https://github.com/fahimalamabir/ONC" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=ONC&show_owner=false&theme=tokyonight" style="border: 2px solid #1e90ff; border-radius: 10px;" />
   </a>
 </p>
 
