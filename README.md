@@ -24,9 +24,8 @@
 <h3 align="center">🌟 Achievements and Highlights</h3>
 
 <ul>
-  <li>Recipient of the XYZ Award for Outstanding Contribution in Data Science</li>
   <li>Published a research paper on machine learning in a reputed journal</li>
-  <li>Contributed to open-source projects with 500+ stars</li>
+  <li>Contributed to open-source projects </li>
   <li>Successfully completed a data science project that saved clients over $100k annually</li>
 </ul>
 
