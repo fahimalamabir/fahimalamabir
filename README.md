@@ -26,7 +26,7 @@
 <ul>
   <li>Published a research paper on machine learning in a reputed journal</li>
   <li>Contributed to open-source projects </li>
-  <li>Successfully completed a data science project that saved clients over $100k annually</li>
+  <li>Successfully completed a data science project that saved clients over $40k annually</li>
 </ul>
 
 <h3 align="center">🛠️ Tools and Technologies</h3>
