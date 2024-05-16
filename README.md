@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abir29793@gmail.com)](mailto:abir29793@gmail.com)
 
 
-<h1 align="center">Hi 👋, I'm Jon Ting</h1>
+<h1 align="center">Hi 👋, I'm Fahim Alam</h1>
 <h3 align="center">A <a href="https://comp.anu.edu.au/people/jonathan-ting/">PhD candidate</a> at the <a href="https://www.anu.edu.au/">Australian National University</a> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jon-ting" alt="jon-ting" /> </p>
