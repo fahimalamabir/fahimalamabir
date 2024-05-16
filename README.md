@@ -40,14 +40,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=fahimalamabir&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=fahimalamabir&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420" />
+<p align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 20px;">
+  <a href="https://github-readme-stats.vercel.app/api?username=fahimalamabir&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420" style="margin-right: 20px;">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=fahimalamabir&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420" style="border: 2px solid #00ff00; border-radius: 20px;" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimalamabir&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30&card_width=375&exclude_repo=staged-recipes,lammps,sphractal-feedstock&hide=scilab,assembly,html,javascript,batchfile,hack,makefile">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimalamabir&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30&card_width=377&exclude_repo=staged-recipes,lammps,sphractal-feedstock&hide=scilab,assembly,html,javascript,batchfile,hack,makefile" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimalamabir&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30&card_width=377&exclude_repo=staged-recipes,lammps,sphractal-feedstock&hide=scilab,assembly,html,javascript,batchfile,hack,makefile" style="border: 2px solid #ff00ff; border-radius: 20px;" />
   </a>
 </p>
+
 
 <h2 align="center">Get in Touch!</h2>
 
