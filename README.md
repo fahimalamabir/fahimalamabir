@@ -18,7 +18,7 @@
 <p>
 
 <p align="center">
-  <a href="https://github.com/jon-ting/coursera-certifications#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=vision-friendly-dark" /></a>
+  <a href="https://github.com/fahimalamabir/datatuneanalytics#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahimalamabir&repo=datatuneanalytics&show_owner=false&theme=vision-friendly-dark" /></a>
   <a href="https://github.com/jon-ting/coursera-certifications#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=transparent" /></a>
   <a href="https://github.com/jon-ting/futurelearn-certifications#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=vision-friendly-dark" /></a>
   <a href="https://github.com/jon-ting/futurelearn-certifications#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=transparent" /></a>
