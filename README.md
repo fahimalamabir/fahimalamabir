@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Alam</h1>
 ### Welcome to my Github :blush:
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffahimalamabir&count_bg=%2379C83D&title_bg=%23555555&icon=toggl.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  <a href="https://github-readme-stats.vercel.app/api?username=fahimalamabir&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420#gh-dark-mode-only"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fahimalamabir&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long&card_width=420" /></a>
 
 #### If you want to get in touch, :point_down:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahim-alam-b71a5b1a1/)](https://www.linkedin.com/in/fahim-alam-b71a5b1a1/)
